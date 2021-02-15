@@ -1,4 +1,4 @@
----
+https://androidonair.withgoogle.com/events/android-enterprise-essentials-launch?talk=getstarted-talk4---
 title: Maintaining ownership continuity of your user account's repositories
 intro: You can invite someone to manage your user owned repositories if you are not able to.
 versions:
